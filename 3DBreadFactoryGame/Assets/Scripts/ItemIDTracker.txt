@@ -1,0 +1,6 @@
+Follows order in ShopPrefabs folder (Assets/Resources/Prefabs/ShopPrefabs)
+0:Collector
+1:Conveyor
+2:IronMine
+3:WoodMine
+4:BasicUpgrader
